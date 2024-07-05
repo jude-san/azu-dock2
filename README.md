@@ -9,3 +9,9 @@
 - push tagged image `docker push username/respositoryname:latest`
 
 `support a good cause now!!!!!`
+
+## Repo links
+
+- [Docker Hub Repo](https://hub.docker.com/r/judekhay/static-web-ver2)
+
+- [ECR Repo](https://gallery.ecr.aws/o0b3u4r8/azubi-ver2)
